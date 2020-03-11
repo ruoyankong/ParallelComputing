@@ -1,0 +1,11 @@
+ ** vecLen = 1024, Mflops =  3.44e+02, err =   1.42e-06
+ ** vecLen = 2048, Mflops =  7.04e+02, err =   9.24e-07
+ ** vecLen = 4096, Mflops =  1.36e+03, err =   1.06e-06
+ ** vecLen = 8192, Mflops =  2.82e+03, err =   1.00e-06
+ ** vecLen = 16384, Mflops =  5.67e+03, err =   8.29e-07
+ ** vecLen = 32768, Mflops =  1.14e+04, err =   1.78e-06
+ ** vecLen = 65536, Mflops =  2.26e+04, err =   2.43e-06
+ ** vecLen = 131072, Mflops =  4.58e+04, err =   2.14e-06
+ ** vecLen = 262144, Mflops =  9.18e+04, err =   1.99e-06
+ ** vecLen = 524288, Mflops =  1.81e+05, err =   2.74e-06
+

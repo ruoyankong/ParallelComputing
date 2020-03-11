@@ -1,0 +1,7 @@
+1. Make File
+make testSaxpy.ex
+make testSaxpyC.ex
+
+2. Test (test on cuda08)
+./testSaxpy.ex
+./testSaxpyC.ex
